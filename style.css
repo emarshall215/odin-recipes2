@@ -1,3 +1,12 @@
-.recname{
-    text-align: center;
+h1{
+text-align: center;
+background-color: bisque;
+}
+div{
+    font-size: 20px;
+   
+}
+strong {
+    color: rgb(198, 14, 14);
+    text-decoration: underline;
 }
